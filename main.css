@@ -1,0 +1,245 @@
+*{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    justify-content: space-evenly;
+}
+.nav-logo{
+    height: 50px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+.logo{
+    background-image: url( your.way.photo.jpg);
+    background-size: cover;
+    height: 50px;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 3px;
+    margin-left: 2px;
+    border-radius: 10px;
+    
+
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white ;
+
+}
+.account-icon{
+    
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 150px;
+    
+    
+}
+.nav-search{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color:#9a6b0f;
+    width: 500px;
+    height: 50px;
+    margin-top: 5px;
+    
+}
+option{
+
+margin-top: 20px;
+width: 50px;
+margin-left: 15px;
+
+
+}
+input{
+    width: 100%;
+}
+.search-icon{
+    width: 50px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-left: 15px;
+    
+    
+}
+.nav-mybag{
+    width: 150px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.mybag-icon{
+
+display: flex;
+justify-items: center;
+align-items: center;
+
+
+}
+
+p{
+    margin-left: 10px;
+}
+
+.nav-wishlist{
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-content: center;  
+}
+.wishlist-icon{
+display: flex;
+justify-items: center;
+align-items: center;
+}
+.nav-help{
+    height: 55px;
+    width: 200px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.call-icon{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+.setting{
+    height: 55px;
+    width: 120px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.setting-icon{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+.hero-section{
+    background-image: url(under\ background.image.jpg);
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50px; 
+}
+.hairstyle-list{
+    
+height: 800px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+justify-items: center;
+align-items: center;
+
+}
+.box{
+
+margin-top: 30px;
+height: 400px;
+width: 23%;
+border-color: black;
+background-color: white;
+border-radius: 20px;
+display: flex;
+justify-content: space-evenly;
+justify-self: center;
+align-items: center;
+color: black;
+}
+
+.box-img{
+    height: 250px;
+    width: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    border-radius: 20px;
+
+}
+
+.box-containt{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+}
+.boc-containt p{
+
+    color: #9a6b0f;
+    display: flex;
+    align-self: flex-start;
+    text-decoration: underline;
+}
+h2{
+    margin-left: 40px;
+    padding-bottom: 15px;
+}
+.box p{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.footer-panel{
+    height: 30px;
+    background-color: #9a6b0f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 20px;
+}
+.footer-panel2{
+    background-color: rgba(18,17,17,0.002);
+    color: white;
+}
+.footer-panel2 h3{
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.id-link{
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    background-color: transparent;
+    justify-content: space-evenly;
+    align-content: center;
+    margin-left: 300px;
+    margin-top: 10px;
+    margin-right: 70px;
+}
+.id-link img{
+    border-radius: 50px;
+}
+h3{
+    color: white;
+    margin-top: 5px;
+    margin-right: 50px;
+}
+
